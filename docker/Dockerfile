@@ -32,7 +32,7 @@ USER elasticsearch
 
 ENV PATH=$PATH:/usr/share/elasticsearch/bin
 
-CMD ["elasticsearch"]
+# CMD ["elasticsearch"]
 
 WORKDIR /
 

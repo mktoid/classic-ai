@@ -1,2 +1,4 @@
-cluster.name: "docker-cluster"
+cluster.name: "mktoid-classic-sberbank-ai-cluster"
 network.host: 0.0.0.0
+index.number_of_shards: 1
+index.number_of_replicas: 0

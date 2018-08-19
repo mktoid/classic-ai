@@ -25,5 +25,5 @@ elasticsearch@63365dd1cdff:/tmp/working$ elasticsearch & python server.py &
 Глубокими нейронными сетями
 Летим одни
 Вон точно регрессия полукругом
-Расходятся огни'
+Расходятся огни
 ```

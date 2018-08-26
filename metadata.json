@@ -1,0 +1,4 @@
+{
+    "image": "mktoid/classic",
+    "entry_point": "python run.py"
+}

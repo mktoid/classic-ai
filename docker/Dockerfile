@@ -25,4 +25,4 @@ ENV PATH=$PATH:/usr/share/elasticsearch/bin
 
 WORKDIR /
 
-EXPOSE 8000 9200 9300
+EXPOSE 8000

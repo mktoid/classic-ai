@@ -9,7 +9,7 @@ elasticsearch@63365dd1cdff:/tmp/working$ python run.py
 
 ```
 
-### Запуск Jupyter Notebook в конкурсном контейнере, чтоб выдеть совместимость с теми библиотеками, что там есть
+### Запуск Jupyter Notebook в конкурсном контейнере, чтобы видеть совместимость установленных библиотек
 ```
 jupyter notebook --no-browser --ip="*" --notebook-dir=/tmp/working --allow-root
 

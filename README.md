@@ -1,4 +1,5 @@
-## Classic.AI
+## Sberbank Classic.AI 2018 Competition
+### Poerty generation / text style transfer
 
 Место 13 из 56 команд-участников
 

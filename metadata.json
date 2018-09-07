@@ -1,4 +1,4 @@
 {
-    "image": "mktoid/classic-ai",
-    "entry_point": "python run.py"
+    "image": "sberbank/python",
+    "entry_point": "python server.py"
 }

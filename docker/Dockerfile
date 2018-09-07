@@ -19,10 +19,10 @@ COPY elasticsearch.yml /usr/share/elasticsearch/config/
 
 RUN pip install elasticsearch
 
-USER elasticsearch
+RUN mkdir -p /media/ramdisk
 
-ENV PATH=$PATH:/usr/share/elasticsearch/bin
+ENV PATH=$PATH:/media/ramdisk/bin
 
 WORKDIR /
 
-EXPOSE 8000
+EXPOSE 8000 9200

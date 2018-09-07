@@ -1,5 +1,6 @@
 ## Classic.AI
-(в процессе)
+
+Место 13 из 56 команд-участников
 
 ### Запуск на локальной системе
 
@@ -8,6 +9,7 @@ $ sudo docker run -v $PWD:/tmp/working -w=/tmp/working -p 8000:8000 -p 9200:9200
 elasticsearch@63365dd1cdff:/tmp/working$ python run.py
 
 ```
+
 
 ### Запуск Jupyter Notebook в конкурсном контейнере, чтобы видеть совместимость установленных библиотек
 ```

@@ -13,7 +13,6 @@ root@8b17e84c63bb:/tmp/working$ python run.py
 ### Запуск Jupyter Notebook в конкурсном контейнере, чтобы видеть совместимость установленных библиотек
 ```
 jupyter notebook --no-browser --ip="*" --notebook-dir=/tmp/working --allow-root
-
 ```
 
 ### Пример работы

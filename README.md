@@ -8,9 +8,7 @@
 ```
 $ sudo docker run -v $PWD:/tmp/working -w=/tmp/working -p 8000:8000 -p 8888:8888 --rm -it sberbank/python
 root@8b17e84c63bb:/tmp/working$ python run.py
-
 ```
-
 
 ### Запуск Jupyter Notebook в конкурсном контейнере, чтобы видеть совместимость установленных библиотек
 ```

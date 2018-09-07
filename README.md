@@ -34,3 +34,4 @@ jupyter notebook --no-browser --ip="*" --notebook-dir=/tmp/working --allow-root
 Вон точно регрессия полукругом
 Расходятся огни
 ```
+Elasticsearch не взлетел, после соревнования выяснилось, что образ монтировался read-only
